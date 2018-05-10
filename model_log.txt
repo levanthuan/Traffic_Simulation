@@ -1,0 +1,8 @@
+May 10, 2018 2:51:58 AM repastcity3.main.ContextManager build
+INFO: Creating agents with the agent definition: 'random:people_600.shp$repastcity3.agent.DefaultAgent'
+May 10, 2018 2:51:58 AM repastcity3.agent.AgentFactory createRandomAgents
+INFO: Creating 300 agents using random method.
+May 10, 2018 2:51:58 AM repastcity3.agent.AgentFactory createRandomAgents
+INFO: Creating 300 agents using random method.
+May 10, 2018 2:51:58 AM repastcity3.main.ContextManager createSchedule
+INFO: The multi-threaded scheduler will be used.
